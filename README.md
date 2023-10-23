@@ -23,7 +23,7 @@
 10. Masukkan alat probe pH meter ke dalam beberapa jenis air tersebut, diamkan beberapa saat hingga nilai pH air yang muncul di serial monitor stabil.
     
 # WIRING/PERKABELAN
-1)Hubungkan kabel probe pH dengan Connector modul pH meter sensor (putarlah searah jarum jam).
-2)setelah terhubung ,pasang kabel jumper wires male to female seperti yang telah kami siapkan diatas.
-3)Jika sudah terpasang ,hubungkan kabel jumper tadi ke Arduino uno dan jangan sampai terbalik antara VCC ke (+5V) Arduino ,GND ke GND Arduino ,dan PO ke  pin Analog pada A0 Arduino (pin analog dapat diganti sesuai keinginan).
-PASTIKAN SEMUA KABEL TELAH TERHUBUNG DENGAN BENAR DAN JANGAN SAMPAI ADA YANG SALAH DALAM PEMASANGAN.JIKA DALAM PEMASANGAN KABEL ADA YANG SALAH ,KEMUNGKINAN SALAH SATU ALAT ANDA AKAN RUSAK DAN ANDA AKAN MENYESAL .
+1. Hubungkan kabel probe pH dengan Connector modul pH meter sensor (putarlah searah jarum jam).
+2. Setelah terhubung ,pasang kabel jumper wires male to female seperti yang telah kami siapkan diatas.
+3. Jika sudah terpasang ,hubungkan kabel jumper tadi ke Arduino uno dan jangan sampai terbalik antara VCC ke (+5V) Arduino ,GND ke GND Arduino ,dan PO ke  pin Analog pada A0 Arduino (pin analog dapat diganti sesuai keinginan).
+PASTIKAN SEMUA KABEL TELAH TERHUBUNG DENGAN BENAR DAN JANGAN SAMPAI ADA YANG SALAH DALAM PEMASANGAN.JIKA DALAM PEMASANGAN KABEL ADA YANG SALAH ,KEMUNGKINAN SALAH SATU ALAT ANDA AKAN RUSAK DAN ANDA AKAN MENYESAL.
